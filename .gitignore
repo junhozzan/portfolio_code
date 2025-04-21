@@ -1,0 +1,7 @@
+﻿*.meta
+Scripts/Table
+Scripts/Manager
+Scripts/Frame/Json/Util/Encryptor.cs
+Scripts/User
+Scripts/Frame/SaveControl.cs
+Scripts/ScriptableObject
